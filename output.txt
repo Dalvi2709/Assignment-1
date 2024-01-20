@@ -1,0 +1,8 @@
+1) Employees who have worked for 7 consecutive days:
+The program will identify employees who have seven consecutive days of work based on the hasConsecutiveDaysWorked method. If such employees are present in the data, the program will print messages for each of them.
+
+2) Employees with less than 10 hours between shifts but greater than 1 hour:
+The program will identify employees with less than 10 hours between shifts but greater than 1 hour based on the time-in and time-out of consecutive records. If such employees exist, the program will print messages for each of them.
+
+3) Employees who have worked for more than 14 hours in a single shift:
+The program will identify employees who have worked for more than 14 hours in a single shift based on the getTimecardHours method. If such employees are found, the program will print messages for each of them.
